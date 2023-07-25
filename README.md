@@ -1,6 +1,6 @@
 # Universal Rocket Delta-V Calculator / 通用火箭dV计算器
 
-![main](Reference\main.png)
+![main](Reference/main.png)
 
 A simple rocket delta-V calculator made with Excel, using Tsiolkovsky rocket equation. 
 
